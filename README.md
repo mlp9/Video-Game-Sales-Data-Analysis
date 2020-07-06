@@ -1,0 +1,2 @@
+# Video-Game-Sales-Data-Analysis
+The data set used in this analysis describes information about historical video game sales. Categorical information includes: rank (in sales), title, platform (system), year of release, genre, publisher, and sales amount (in millions) for the regions of: North America, Europe, Japan, and Other Countries. Approach to Data Analysis includes using Pandas, reading and using Python library documentation, and incorporating data visualization with analysis with Series and DataFrames.
